@@ -6,6 +6,6 @@ Outside of school, I enjoy...
 * 📚 Reading.
 
 📬Connect with Me📬
-* [I'm an inline-style link with title](www.linkedin.com/in/nujaimah "LinkedIn")
+* [LinkedIn](www.linkedin.com/in/nujaimah)
 
 
